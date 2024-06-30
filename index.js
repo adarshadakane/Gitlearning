@@ -203,8 +203,8 @@ console.log('Chaliye shuru karte hai ');
 // console.log(a.value);
 
 let rectangle = {
-    length:2,
-    breadth:4
+    length:6,
+    breadth:8
 };
 
 //for-in loop 
